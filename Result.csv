@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1616244288563,1364,HTTP Request,200,,Thread Group 1-1,text,true,,1487,126,1,1,https://petstore.octoperf.com/,1362,0,1196
